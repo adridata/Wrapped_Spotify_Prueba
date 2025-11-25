@@ -1,0 +1,2 @@
+spotipy>=2.22.0
+# Add other dependencies here when needed
